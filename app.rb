@@ -4,6 +4,6 @@ class App < Sinatra::Base
   get '/' do 
   end 
   
-  post '/' do 
+  post '/puppy' do 
   end 
 end
