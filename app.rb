@@ -9,5 +9,8 @@ class App < Sinatra::Base
     erb :create_puppy
   end 
   
-  get 'POST'
+  get 'POST' do 
+    
+  end 
+  
 end
