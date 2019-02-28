@@ -12,6 +12,5 @@ class App < Sinatra::Base
   post '/puppy' do 
   end 
     
-  end 
   
 end
